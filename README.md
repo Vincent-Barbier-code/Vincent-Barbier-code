@@ -1,33 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visting;If+your+a+42+Student;Click+below;Thanks+for+visting;If+your+a+42+Student;Click+below;)](https://git.io/typing-svg)
-
-### 🎓 &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
-
-### 🖥️ &nbsp; [42 School Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
-
-### :hammer: &nbsp; [42 School Resources - Click Here](https://github.com/pasqualerossi/42-Resources)
-
-![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
-
-</div>
-
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,)](https://skillicons.dev)
-
-## Future Skills
-
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,java,kotlin,react,js,angular,appwrite)](https://skillicons.dev)
-
-## This Repo
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-
-</div>
-
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
-
-<div align="center">
+<!--
+ - 
+-->
+<p align="center">
+ <a href="https://github.com/kodpe">
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=kodpe&hide_title=true&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&hide_border=true&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=&border_color=&border_radius=0" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodpe&count_private=true&hide_title=true&langs_count=2&hide=html,makefile,batchfile,css&layout=compact&custom_title=Languages&hide_border=true&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=&bg_color=&border_color=&border_radius=0" />
+ </a>
+</p>
+<!--
+ -
+-->
+<p align="center">
+ <a href="https://github.com/kodpe">
+  <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
+ </a>
+</p>
+<!--
+<p align="center">
+ <a href="https://github.com/kodpe/42Autoh">
+    <img alt="42intra" src="https://img.shields.io/badge/Autoh-0.1.7beta-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
+ </a>
+</p>
+<p align="center">
+  <a href="https://github.com/kodpe/zsheep">
+    <img alt="zsheep" src="https://img.shields.io/badge/zsheep ~-0.2.8beta-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
+         </a>
+</p>
+<p align="center">
+ <img width="140" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_askyy.png" />
+ <img width="120" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_gps.png" />
+ <img width="113" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_snails.png" />
+  <h5> </h5>
+</p>
+-
+-->
+<!--
+<p align="center">
+<h5 align="center"></h5>
+<h5 align="center">Libft&nbsp;:heavy_check_mark:&emsp;get_next_line&nbsp;:heavy_check_mark:&emsp;ft_printf&nbsp;:heavy_check_mark:&emsp;Born2beroot&nbsp;:heavy_check_mark:</h5>
+  <h5 align="center">push_swap&nbsp;:heavy_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" />&emsp;FdF&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
+</p>
