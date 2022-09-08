@@ -1,42 +1,5 @@
-<!--
- - 
--->
-<p align="center">
- <a href="https://github.com/kodpe">
-  <img width="360" src="https://github-readme-stats.vercel.app/api?username=kodpe&hide_title=true&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&hide_border=true&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=&border_color=&border_radius=0" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodpe&count_private=true&hide_title=true&langs_count=2&hide=html,makefile,batchfile,css&layout=compact&custom_title=Languages&hide_border=true&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=&bg_color=&border_color=&border_radius=0" />
- </a>
-</p>
-<!--
- -
--->
 <p align="center">
  <a href="https://github.com/kodpe">
   <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
  </a>
-</p>
-<!--
-<p align="center">
- <a href="https://github.com/kodpe/42Autoh">
-    <img alt="42intra" src="https://img.shields.io/badge/Autoh-0.1.7beta-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
- </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kodpe/zsheep">
-    <img alt="zsheep" src="https://img.shields.io/badge/zsheep ~-0.2.8beta-white?style=for-the-badge&labelColor=000000&Color=FFFFFF"
-         </a>
-</p>
-<p align="center">
- <img width="140" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_askyy.png" />
- <img width="120" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_gps.png" />
- <img width="113" src="https://github.com/kodpe/kodpe/blob/main/img/zsheep_snails.png" />
-  <h5> </h5>
-</p>
--
--->
-<!--
-<p align="center">
-<h5 align="center"></h5>
-<h5 align="center">Libft&nbsp;:heavy_check_mark:&emsp;get_next_line&nbsp;:heavy_check_mark:&emsp;ft_printf&nbsp;:heavy_check_mark:&emsp;Born2beroot&nbsp;:heavy_check_mark:</h5>
-  <h5 align="center">push_swap&nbsp;:heavy_check_mark:&emsp;pipex&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" />&emsp;FdF&nbsp;<img width="13" src="https://github.com/kodpe/kodpe/blob/main/img/load.gif" /> </h5>
 </p>
