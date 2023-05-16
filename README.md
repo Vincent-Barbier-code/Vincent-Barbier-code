@@ -11,12 +11,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vincent-Barbier-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Barbier-code&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/StaroFox#7445) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-barbier-code) 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/StaroFox#7445) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-barbier-code) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vincent-Barbier-code&icon=5&color=0)](https://visitcount.itsvg.in)
 
