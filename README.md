@@ -1,8 +1,8 @@
-
-[![vbarbier's 42 stats](https://badge42.vercel.app/api/v2/clhpkhn1a010408lcrdyh06zs/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-
 <p align="center">
  <a href="https://github.com/kodpe">
+[![vbarbier's 42 stats](https://badge42.vercel.app/api/v2/clhpkhn1a010408lcrdyh06zs/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
+
+
   <img width="100" src="https://github.com/Vincent-Barbier-code/Vincent-Barbier-code/blob/main/goose.gif" />
  </a>
 </p>
