@@ -1,4 +1,5 @@
-![42](https://img.shields.io/badge/42-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)
+<span style="color:#000000; font-weight:bold;">école 42</span> ![42](https://img.shields.io/badge/42-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
