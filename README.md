@@ -1,12 +1,3 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<p align="center">
-  <a href="https://github.com/kodpe">
-    <img width="100" src="https://github.com/Vincent-Barbier-code/Vincent-Barbier-code/blob/main/goose.gif" />
-  </a>
-</p>
-
 ## 🔧 Technologies & Tools
 
 ### Langages de Programmation
@@ -47,5 +38,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vincent-Barbier-code&icon=5&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<p align="center">
+  <a href="https://github.com/kodpe">
+    <img width="100" src="https://github.com/Vincent-Barbier-code/Vincent-Barbier-code/blob/main/goose.gif" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
