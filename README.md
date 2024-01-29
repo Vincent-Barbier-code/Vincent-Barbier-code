@@ -1,6 +1,3 @@
-<span style="color:#000000; font-weight:bold;">école 42</span> ![42](https://img.shields.io/badge/42-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -14,7 +11,7 @@
 
 
 
-
+![42](https://img.shields.io/badge/42-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/StaroFox#7445) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-barbier-code) 
