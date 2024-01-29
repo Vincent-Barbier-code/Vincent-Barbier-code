@@ -1,5 +1,3 @@
-[![vbarbier's 42 stats](https://badge42.vercel.app/api/v2/clhpkhn1a010408lcrdyh06zs/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
