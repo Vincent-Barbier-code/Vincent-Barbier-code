@@ -40,6 +40,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vincent-Barbier-code&show_icons=true&locale=en&layout=compact" alt="Vincent-Barbier-code" /></p>
+
 <p align="center">
   <a href="https://github.com/kodpe">
     <img width="100" src="https://github.com/Vincent-Barbier-code/Vincent-Barbier-code/blob/main/goose.gif" />
